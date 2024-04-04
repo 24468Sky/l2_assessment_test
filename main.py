@@ -1,3 +1,5 @@
+# make changes
+
 inventory = {"Mele": "Sword", "Shield": "Royal Shield", "Bow": "Lizal bow"}
 def menu():
     print(" Menu\n", "'1'Show inventory\n", "'2'Drop an item\n", "'3'End\n")
